@@ -1,0 +1,48 @@
+{
+  "drop_leading_blank_after_title": true,
+  "collapse_blank_runs": true,
+  "default_placeholders": {
+    "img": "",
+    "topic": "",
+    "vote": "",
+    "youtube_url": "",
+    "text_url": "",
+    "coffee": "",
+    "fungrowth_id": ""
+  },
+  "special_rows": {
+    "img": [
+      {
+        "match": "（KV图）",
+        "value": ""
+      },
+      {
+        "match": "（游戏内图片）",
+        "value": ""
+      },
+      {
+        "match": "（兰博海报）",
+        "value": ""
+      },
+      {
+        "match": "（表情包gif图）",
+        "value": ""
+      }
+    ],
+    "topic": [
+      {
+        "match": "兰博的不屈战意",
+        "value": ""
+      },
+      {
+        "match": "谁与兰博棋逢对手？",
+        "value": ""
+      }
+    ],
+    "vote": [],
+    "youtube_url": [],
+    "text_url": [],
+    "coffee": [],
+    "fungrowth_id": []
+  }
+}
